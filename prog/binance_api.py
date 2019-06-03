@@ -1,7 +1,8 @@
 import time
 import json
 import urllib
-import hmac, hashlib
+import hmac
+import hashlib
 import requests
 
 from urllib.parse import urlparse, urlencode
