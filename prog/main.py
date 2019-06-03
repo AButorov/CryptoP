@@ -1,1 +1,1 @@
-print(эккккк)
+print('sadsdasdasdas')
