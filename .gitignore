@@ -1,4 +1,5 @@
 prog/test.py
+prog/init.py
 prog/__pycache__
 /venv
 /.idea

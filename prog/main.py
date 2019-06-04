@@ -4,6 +4,7 @@
 
 # библиотеки сообщества
 from binance_api import Binance
+from init import aaa as keyB
 
 # мои библиотеки
 # import bFunc
@@ -12,10 +13,11 @@ from binance_api import Binance
 # исходные данные ----------------
 
 # подключаемся к бирже
-bot = Binance(
+bn = Binance(
     API_KEY='D7...Ejj',
     API_SECRET='gwQ...u3A'
 )
 
-lExchangeInfo = bot.exchangeInfo()
+lExchangeInfo = bn.exchangeInfo()
 print(lExchangeInfo)
+print(keyB)
