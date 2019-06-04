@@ -1,3 +1,6 @@
 # CryptoP
 My crypto portfolio
-1
+
+
+
+git push -u origin master
